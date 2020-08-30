@@ -1,0 +1,16 @@
+.text-navbar {
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #FFF;
+  font-size: 25pt;
+  color: #000;
+}
+
+.spacing-carousel {
+  margin-top: 4.7rem !important;
+}
+
+.about-description {
+  font-size: 16pt;
+}
+
+/*# sourceMappingURL=styles.css.map */
